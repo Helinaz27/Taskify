@@ -4,10 +4,10 @@ Taskify is a web app designed to help teams manage their tasks and collaborate m
 
 ## Features
 
-- Task management with deadlines and progress tracking
+- Task management 
 - Real-time team collaboration
 - Cross-device synchronization
-- Integration with tools like Google Calendar and Slack
+- Integration with tools 
 
 ## Technologies Used
 
